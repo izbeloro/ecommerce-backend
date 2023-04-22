@@ -15,7 +15,7 @@ This challenge demonstrates the structure to build the back end for an e-commerc
 
 - Link to Deployed Application: N/A
 - Github Repo: https://github.com/izbeloro/ecommerce-backend
-- Video Walkthrough: 
+- Video Walkthrough: https://drive.google.com/file/d/1R9FFKNKsdbRfJsTxQJji0xNjPKi6IRm8/view
 
 
 To use this challenge, you have to run node. After running node, you are able to post, put, and delete through insomnia. Insomnia allows you to edit the database.
